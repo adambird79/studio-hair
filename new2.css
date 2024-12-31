@@ -1,0 +1,72 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	/*background-color:#b9b9b9;
+	background-color:#c7c7c7;*/
+}
+.container {
+	position:relative;
+	width:1000px;
+	height:650px;
+	margin:0 auto;
+	border-color:black;
+	/*border-width:1px;
+	border-style:groove;*/
+	background-image:url(ph1.jpg);
+	background-position:right bottom;
+	background-repeat:no-repeat;
+}
+
+.top {
+	width:50%;
+	height:71px;
+	/*border-style:solid;
+	border-width:5px;
+	border-color:red;	
+	*/
+}
+
+.address {
+	width:20%;
+	height:80px;
+	position:absolute;
+	top:5px;
+	/*right:210px;*/
+	left:400px;
+	text-align:left;
+	background-color:#ffffff;
+  	border:1px solid black;
+  	opacity:0.6;
+}
+
+.telephone {
+	width:20%;
+	height:71px;
+	position:absolute;
+	top:15px;
+	/*right:5px;*/
+	left:300px;
+	text-align:center;
+ 	/*background-color:#ffffff;
+  	border:1px solid black;
+  	opacity:0.6;*/
+}
+.menu {
+	width:100%;
+	height:30px;
+	border-bottom-width:1px;
+	/*border-bottom-style:solid;
+	border-bottom-color:black;*/
+}
+
+.content {
+	width:50%;
+	heigth:540px;
+	/*background-color:#FFF;	*/
+}
+.trainedlist {
+	text-align:center;
+	list-style:circle;
+	list-style-position:inside;
+}

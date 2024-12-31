@@ -1,0 +1,128 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="The Studio Hair Tickhill Price List offering competitive prices" />
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-26497552-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<title>The Studio Hair Tickhill - Price List</title>
+<link href="new2.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<div class="container">
+<div class="top"><img src="studio_RL.png" width="277" height="71" alt="The Studio Hair" /></div>
+<!--div class="address">The Studio</br>1c, Sunderland St,</br>Tickhill,</br>Doncaster, DN11 9PT</div-->
+<div class="telephone"><b>Make an Appointment Today</b></br><b>telephone us:</b></br><b>01302 745599</b></div>
+<div class="menu">
+<table>
+	<tr>
+    <td><a href="index.html">Home</td>
+    <td width="10px"</td>
+    <td><a href="prices.html">Prices</td>
+    <td width="10px"</td>
+    <td><a href="location.html">Find Us</td>
+    <td width="10px"</td>
+    <td><a href="gallery.html">Gallery</td>
+    <td width="10px"</td>
+    <td><a href="specialoffers.html">Special Offers</td>
+    </tr>
+</table>
+</div>
+<!-- PAGE CONTENT -->
+<b>Prices</b>
+<br />
+<br />
+<div class="content">
+<table>
+	<tr>
+		<td width="300px">Finish </td>
+		<td>£10.00</td>
+	</tr>
+	<tr>
+		<td width="300px">Cut & Finish</td>
+		<td>£22.00</td>
+	</tr>
+	<tr>
+		<td width="300px">Restyle</td>
+		<td>£25.00</td>
+	</tr>
+	<tr>
+		<td width="300px">Wet Cut</td>
+		<td>£15.00</td>
+	</tr>
+	<tr>
+		<td width="300px">Full Head</td>
+		<td>£25.00</td>
+	</tr>
+	<tr>
+		<td width="300px">Roots</td>
+		<td>£22.00</td>
+	</tr>
+	<tr>
+		<td width="300px">Foils</td>
+		<td>£30.00</td>
+	</tr>
+	<tr>
+		<td width="300px">Spatula Highlights</td>
+		<td>£25.00</td>
+	</tr>
+	<tr>
+		<td width="300px">Perms Short (including Cut)</td>
+		<td>£40.00</td>
+	</tr>
+	<tr>
+		<td width="300px">Perms Long (estimate on length)</td>
+		<td>Estimate</td>
+	</tr>
+	<tr>
+		<td width="300px">Brazillian Straightening</td>
+		<td>£100.00</td>
+	</tr>
+	<tr>
+		<td width="300px">Extensions</td>
+		<td>Estimate</td>
+	</tr>
+	<tr>
+		<td width="300px">Wedding & Prom Packages</td>
+		<td>£25.00</td>
+	</tr>
+	<tr>
+		<td width="300px">Gents Cut</td>
+		<td>£8.00</td>
+	</tr>
+	<tr>
+		<td width="300px">childs Cut</td>
+		<td>£7.00</td>
+	</tr>
+	<tr>
+		<td width="300px">OAP</td>
+		<td>£5.00</td>
+	</tr>
+	<tr>
+		<td width="300px">Babies</td>
+		<td>FREE</td>
+	</tr>
+	<tr>
+		<td width="300px">Condition & Treatment</td>
+		<td>£8.00</td>
+	</tr>
+</table>
+</div>
+
+<!-- END OF PAGE CONTENT -->
+</div>
+
+</body>
+</html>
